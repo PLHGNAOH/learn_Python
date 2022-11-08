@@ -1,0 +1,6 @@
+a=3
+b=6
+print("tong",a+b)
+print("hieu",a-b)
+print("tich",a*b)
+print("thuong",a/b)
