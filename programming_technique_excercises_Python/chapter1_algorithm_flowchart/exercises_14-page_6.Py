@@ -1,0 +1,9 @@
+n=5
+x=3
+i=0
+s=0
+while i<=n:
+    S=pow(x,2*i+1)
+    s=s+S
+    i+=1
+print("S=",int(s))    
