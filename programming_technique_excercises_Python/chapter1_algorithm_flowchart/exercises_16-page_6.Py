@@ -1,0 +1,11 @@
+n=5
+x=3
+i=1
+mau=0
+S=0
+while i<=n:
+    tu=pow(x,i)
+    mau=mau+i
+    S=S+tu/mau
+    i+=1
+print("S=",float(S))    
