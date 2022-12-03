@@ -1,0 +1,9 @@
+n=10
+i=1
+s=0
+t=1
+while i<=n:
+   t=t*i
+   s=s+t
+   i+=1
+print("S=",s)    
