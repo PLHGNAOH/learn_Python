@@ -1,0 +1,6 @@
+print("Nhap ten san pham,so luong,va don gia")
+tensampham=str(input())
+soluong=int(input())
+dongia=int(input())
+print("Tien="+str(soluong*dongia))
+print("Thue gia tri gia tang "+str((soluong*dongia)*0.1)) 

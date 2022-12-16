@@ -1,0 +1,7 @@
+print("Nhap hai so a va b")
+a=int(input())
+b=int(input())
+print("Tong "+str(a+b))
+print("Hieu "+str(a-b))
+print("Tich "+str(a*b))
+print("Thuong "+str(a/b))

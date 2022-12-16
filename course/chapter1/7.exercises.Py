@@ -1,0 +1,5 @@
+print("Nhap diem ba mon toan ly hoa cua ban")
+toan=int(input())
+ly=int(input())
+hoa=int(input())
+print("Diem trung binh="+str((toan+ly+hoa)*3/9))
